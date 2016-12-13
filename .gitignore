@@ -3,3 +3,4 @@ reports/
 .coverrun
 .coverdata
 npm-debug.log
+.idea
